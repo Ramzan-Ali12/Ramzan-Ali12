@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Ramzan Ali 👋[Ramzan_Software_Engineer.pdf](https://github.com/user-attachments/files/17534730/Ramzan_Software_Engineer.pdf)
+# Hi there, I'm Muhammad Ramzan Ali 👋
 
 #### Welcome to my GitHub! I'm M Ramzan Ali
 #### Trainee Software Engineer specializing in Python, Django, and Django REST Framework.
@@ -23,7 +23,7 @@ Here are a few highlights of my recent work:
 ### Databases: PostgreSQL, SQLite, DuckDB
 ### Other: API integration, Automation, AWS basics
 ## 📄 Resume
-### For more details about my professional experience and skills, you can view my [Resume](Ramzan_Software_Engineer).
+### For more details about my professional experience and skills, you can view my [Ramzan_Software_Engineer.pdf](https://github.com/user-attachments/files/17534730/Ramzan_Software_Engineer.pdf).
 
 # 📫 Contact Me
 ### LinkedIn: https://linkedin.com/in/m-ramzanali12
