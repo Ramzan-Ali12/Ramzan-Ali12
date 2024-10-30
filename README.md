@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Ramzan Ali 👋
 
 #### Welcome to my GitHub! I'm M Ramzan Ali
-#### Trainee Software Engineer specializing in Python, Django, and Django REST Framework.
+#### Software Engineer specializing in Python, Django, Django REST Framework, FASTAPI, AI/ML,LLM,LangChain.
 #### I'm passionate about building efficient and scalable Backend Software Development applications, and AI-driven solutions.
 
 # 🚀 About Me
