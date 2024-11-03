@@ -25,5 +25,5 @@ Here are a few highlights of my recent work:
 ### For more details about my professional experience and skills, you can view my [Resume](https://github.com/user-attachments/files/17534730/Ramzan_Software_Engineer.pdf).
 
 # 📫 Contact Me
-### LinkedIn: https://linkedin.com/in/m-ramzanali12
+### LinkedIn: [LinkedIn(https://linkedin.com/in/m-ramzanali12)]
 ### Email: mramzanali258@gmail.com
