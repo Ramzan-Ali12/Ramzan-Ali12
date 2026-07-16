@@ -145,7 +145,7 @@ I work across:
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mramzanali258@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/m-ramzanali12)
-
+[![WhatsApp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/923174841579)
 ![Profile Views](https://komarev.com/ghpvc/?username=Ramzan-Ali12&label=Profile+Views&color=00D9FF&style=flat)
 
 </div>
