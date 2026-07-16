@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Muhammad%20Ramzan%20Ali&fontSize=48&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20AI%20%26%20LLM%20Systems&descAlignY=55&descColor=E8F9FD)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050A30,50:0A1AFF,100:00FFD1&height=260&section=header&text=Muhammad%20Ramzan%20Ali&fontSize=54&fontColor=E6F1FF&animation=fadeIn&fontAlignY=38)](https://github.com/Ramzan-Ali12)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Building+production-grade+AI+%26+backend+systems;Django+%C2%B7+FastAPI+%C2%B7+LangChain+%C2%B7+AWS+Bedrock+%C2%B7+RAG+Pipelines;Independently+shipping+ROA+AI+across+12+form+types)](https://git.io/typing-svg)
 
