@@ -10,7 +10,7 @@
 
 ## 👋 About
 
-I'm a **Backend Software Engineer with 2+ years of experience** building AI-powered
+I'm a **Backend Software Engineer with 3+ years of experience** building AI-powered
 platforms, RESTful APIs, and document-intelligence pipelines for production financial
 systems.
 
@@ -132,7 +132,7 @@ I work across:
 ## 🧠 Brief Summary
 
 - **Title:** Backend Software Engineer (AI / LLM Systems)
-- **Experience:** 2+ years, production financial systems
+- **Experience:** 3+ years, production financial systems
 - **Strengths:** Independent system ownership, LLM/RAG pipelines, API performance optimization
 - **Industries:** Fintech, document intelligence, media/AI tooling
 - **Availability:** Open to remote opportunities
