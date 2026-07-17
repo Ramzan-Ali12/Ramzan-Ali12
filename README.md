@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050A30,50:0A1AFF,100:00FFD1&height=260&section=header&text=Muhammad%20Ramzan%20Ali&fontSize=54&fontColor=E6F1FF&animation=fadeIn&fontAlignY=38)](https://github.com/Ramzan-Ali12)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050A30,50:0A1AFF,100:00FFD1&height=260&section=header&text=Muhammad%20Ramzan%20Ali&fontSize=54&fontColor=E6F1FF&animation=fadeIn)](https://github.com/Ramzan-Ali12)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Building+production-grade+AI+%26+backend+systems;Django+%C2%B7+FastAPI+%C2%B7+LangChain+%C2%B7+AWS+Bedrock+%C2%B7+RAG+Pipelines;Independently+shipping+ROA+AI+across+12+form+types)](https://git.io/typing-svg)
+**Backend Software Engineer | AI/LLM Systems | Production Financial Systems**
 
 </div>
 
@@ -10,12 +10,9 @@
 
 ## 👋 About
 
-I'm a **Backend Software Engineer with 3+ years of experience** building AI-powered
-platforms, RESTful APIs, and document-intelligence pipelines for production financial
-systems.
+I'm a **Backend Software Engineer with 3+ years of experience** building AI-powered platforms, RESTful APIs, and document-intelligence pipelines for production financial systems.
 
-I independently architect and ship end-to-end systems — from LLM-driven document
-extraction to REST API design — without senior oversight.
+I independently architect and ship end-to-end systems — from LLM-driven document extraction to REST API design — without senior oversight.
 
 I work across:
 
@@ -68,13 +65,17 @@ I work across:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00D9FF&height=2"/>
 
-## 🚀 Selected Engineering Work
+## 🚀 Featured Projects
 
 ### 🧠 ROA AI — Document Intelligence Platform
 **Production-grade AI system automating financial advisory workflows**
+
+🔗 **Live Demo:** [https://portal.sfpadvice.co.za/](https://portal.sfpadvice.co.za/)
+
 - Integrated AWS Bedrock (Claude), PyMuPDF, and Textract for document ingestion & field mapping
 - Delivered ~30% performance improvement via structured API design + Redis caching
 - Scalable S3 storage architecture with presigned URLs and fallback handling for scanned PDFs
+- Automated extraction of 12+ financial form types with high accuracy
 
 ### 💬 RAG-Based Manufacturing Intelligence Chatbot
 **Context-aware chatbot for manufacturing event analysis**
@@ -92,14 +93,6 @@ I work across:
 **Interactive, context-aware engagement with video content**
 - Architected using LangChain, Chroma, and FAISS for semantic search
 - GPT-based subtitle processing for automated video clipping
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00D9FF&height=2"/>
-
-## 🚧 Currently Building
-
-- Expanding ROA AI's document intelligence across additional form types
-- Exploring agentic AI workflows for financial advisory automation
-- Sharpening algorithms & data structures for backend system design
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00D9FF&height=2"/>
 
@@ -129,11 +122,11 @@ I work across:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00D9FF&height=2"/>
 
-## 🧠 Brief Summary
+## 🧠 Professional Summary
 
 - **Title:** Backend Software Engineer (AI / LLM Systems)
 - **Experience:** 3+ years, production financial systems
-- **Strengths:** Independent system ownership, LLM/RAG pipelines, API performance optimization
+- **Expertise:** Independent system ownership, LLM/RAG pipelines, API performance optimization, document intelligence
 - **Industries:** Fintech, document intelligence, media/AI tooling
 - **Availability:** Open to remote opportunities
 
